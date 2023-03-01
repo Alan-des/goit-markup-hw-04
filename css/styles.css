@@ -369,8 +369,8 @@ padding-right: 16px;
 }
 
 .team-soc-item {
-  width: 44px;
-  height: 44px;
+  width: 40px;
+  height: 40px;
 }
 .team-soc-link {
   width: 100%;
@@ -478,8 +478,8 @@ line-height: 40px;
 }
 
 .soc-icon{
-  width: 40px;
-  height: 40px;
+  width: 20px;
+  height: 20px;
   fill: var(--color-background);
 }
 
@@ -489,8 +489,8 @@ line-height: 40px;
   gap: 16px;
 }
 .item-soc-link{
-  width: 44px;
-  height: 44px;
+  width: 40px;
+  height: 40px;
 }
 
 .customer-soc-link{
@@ -513,10 +513,6 @@ line-height: 40px;
 font-size: 16px;
 line-height: calc(16 / 24);
 color: #FFFFFF;
-}
-
-.customer-soc-link{
-
 }
 
 /* ---------------PORTFOLIO--------------------- */
